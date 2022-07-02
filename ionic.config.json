@@ -1,0 +1,8 @@
+{
+  "name": "Tracy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f26af80c"
+}

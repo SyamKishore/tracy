@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Tracy",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
